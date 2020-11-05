@@ -1,6 +1,5 @@
-# Project-1-Week-7
-Group Project 1
+# An Analysis of the Relationships between Home Sales and Weather Patterns
 
-Team 4:  Katie Harris, Betsy King, Wenbo Sun, James Shin
+This was a team effort with the following members:  Katie Harris, Betsy King, Wenbo Sun, James Shin
 
-Relationships Between Weather and Home Sales
+
