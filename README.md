@@ -1,4 +1,4 @@
-# An Analysis of the Relationships between Home Sales and Weather Patterns
+# An Analysis of the Relationship between Home Sales and Weather Patterns
 
 This was a team effort with the following members:  Katie Harris, Betsy King, Wenbo Sun, James Shin
 
