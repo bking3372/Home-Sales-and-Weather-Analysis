@@ -2,9 +2,9 @@
 
 This was a team effort with the following members:  Katie Harris, Betsy King, Wenbo Sun, James Shin
 
-### Objective:  Determine if there are relationships between home sales across the country and specific weather patterns, including temperature, humidity levels, amount of precipitation, and amount of cloud cover.
+## Objective:  Determine if there are relationships between home sales across the country and specific weather patterns, including temperature, humidity levels, amount of precipitation, and amount of cloud cover.
 
-**Data:**
+### Data:
 
 The data for the analsyis was collected from the following sources:
 * Home sales from Zillow for over 20,000 US cities; this was narrowed to the top 1,000 most populous cities in the US.  The Zillow data was aggregated to 3 years of monthly data for 2017-2019.
@@ -17,7 +17,7 @@ Cleaning the data brought the total number of cities to 922:
 
 
 
-**Analysis and Conclusions:**
+### Analysis and Conclusions:
 
 The data was analyzed by looking at correlations between home sales and weather patterns by month and fitting linear regression models.
 
