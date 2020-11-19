@@ -16,6 +16,7 @@ Cleaning the data brought the total number of cities to 922:
 *  Some cities did not have a full three years of data (either home sales or weather information) in the 2017 to 2019 time period and were eliminated.
 
 
+
 **Analysis and Conclusions:**
 
 The data was analyzed by looking at correlations between home sales and weather patterns by month and fitting linear regression models.
