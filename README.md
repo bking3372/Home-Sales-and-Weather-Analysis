@@ -23,7 +23,7 @@ The data was analyzed by looking at correlations between home sales and weather 
 
 **It was concluded that there are relationships between home sales across the country and different weather patterns.**
 
-* Across all four regions, home sales are higher in when temperatures are higher (i.e., in the summer months).  Temperature has the strongest relationship with home sales and has an impact on trends seen with the other weather variables.
+* Across all four regions, home sales are higher when temperatures are higher (i.e., in the summer months).  Temperature has the strongest relationship with home sales and has an impact on trends seen with the other weather variables.
 
 * The relationship between home sales and humidity level differs by region:
   -  In the West, home sales are higher when humidity is lower since the summer months tend to have lower humidity levels.  The same relationship also exists in the Midwest.
