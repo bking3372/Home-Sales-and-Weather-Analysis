@@ -31,7 +31,6 @@ The data was analyzed by looking at correlations between home sales and weather 
     - South:      0.78
     - West:       0.82
 
-
    **Linear Regression Models by Region:**
    
      ![NETemp](https://github.com/bking3372/Home-Sales-and-Weather-Analysis/blob/master/Images/NE_Temp_Sales.png)
@@ -44,8 +43,46 @@ The data was analyzed by looking at correlations between home sales and weather 
   -  In the South, humidity does not vary a lot during the year so humidity levels are not related to home sales.
   -  In the Northeast, home sales are actually higher when humidity is higher but the relationship is fairly weak.
 
+  **Correlation of Home Sales & Humidity:**
+    - Northeast:   0.52
+    - Midwest:    -0.35
+    - South:       0.02
+    - West:       -0.76
+
+   **Linear Regression Models by Region:**
+   
+     ![NEHumid](https://github.com/bking3372/Home-Sales-and-Weather-Analysis/blob/master/Images/NE_Humid_Sales.png)
+     ![MWHumid](https://github.com/bking3372/Home-Sales-and-Weather-Analysis/blob/master/Images/MW_Humid_Sales.png)
+     ![SOHumid](https://github.com/bking3372/Home-Sales-and-Weather-Analysis/blob/master/Images/SO_Humid_Sales.png)
+     ![WEHumid](https://github.com/bking3372/Home-Sales-and-Weather-Analysis/blob/master/Images/WE_Humid_Sales.png)
+
 * Home sales are higher when precipitation is higher for most regions (Northeast, Midwest, South) as the amount of precipitation is higher in the summer months, when home sales are higher.
   -  The exception is the West region which has low precipitation levels in the summer months.
 
+**Correlation of Home Sales & Precipitation:**
+    - Northeast:   0.61
+    - Midwest:     0.85
+    - South:       0.73
+    - West:       -0.85
+
+   **Linear Regression Models by Region:**
+   
+     ![NEPrecip](https://github.com/bking3372/Home-Sales-and-Weather-Analysis/blob/master/Images/NE_Precip_Sales.png)
+     ![MWPrecip](https://github.com/bking3372/Home-Sales-and-Weather-Analysis/blob/master/Images/MW_Precip_Sales.png)
+     ![SOPrecip](https://github.com/bking3372/Home-Sales-and-Weather-Analysis/blob/master/Images/SO_Precip_Sales.png)
+     ![WEPrecip](https://github.com/bking3372/Home-Sales-and-Weather-Analysis/blob/master/Images/WE_Precip_Sales.png)
+
 * Home sales are higher when cloud cover is lower as it tends to be sunnier in the summer months; the relationship is stronger in some regions and weaker in others.
 
+**Correlation of Home Sales & Cloud Cover:**
+    - Northeast:  -0.26
+    - Midwest:    -0.75
+    - South:      -0.61
+    - West:       -0.45
+
+   **Linear Regression Models by Region:**
+   
+     ![NECloud](https://github.com/bking3372/Home-Sales-and-Weather-Analysis/blob/master/Images/NE_Cloud_Sales.png)
+     ![MWCloud](https://github.com/bking3372/Home-Sales-and-Weather-Analysis/blob/master/Images/MW_Cloud_Sales.png)
+     ![SOCloud](https://github.com/bking3372/Home-Sales-and-Weather-Analysis/blob/master/Images/SO_Cloud_Sales.png)
+     ![WECloud](https://github.com/bking3372/Home-Sales-and-Weather-Analysis/blob/master/Images/WE_Cloud_Sales.png)
