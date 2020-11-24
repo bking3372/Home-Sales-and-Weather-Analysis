@@ -59,11 +59,11 @@ The data was analyzed by looking at correlations between home sales and weather 
 * Home sales are higher when precipitation is higher for most regions (Northeast, Midwest, South) as the amount of precipitation is higher in the summer months, when home sales are higher.
   -  The exception is the West region which has low precipitation levels in the summer months.
 
-**Correlation of Home Sales & Precipitation:**
-    - Northeast:   0.61
-    - Midwest:     0.85
-    - South:       0.73
-    - West:       -0.85
+   **Correlation of Home Sales & Precipitation:**
+     - Northeast:   0.61
+     - Midwest:     0.85
+     - South:       0.73
+     - West:       -0.85
 
    **Linear Regression Models by Region:**
    
@@ -74,11 +74,11 @@ The data was analyzed by looking at correlations between home sales and weather 
 
 * Home sales are higher when cloud cover is lower as it tends to be sunnier in the summer months; the relationship is stronger in some regions and weaker in others.
 
-**Correlation of Home Sales & Cloud Cover:**
-    - Northeast:  -0.26
-    - Midwest:    -0.75
-    - South:      -0.61
-    - West:       -0.45
+   **Correlation of Home Sales & Cloud Cover:**
+     - Northeast:  -0.26
+     - Midwest:    -0.75
+     - South:      -0.61
+     - West:       -0.45
 
    **Linear Regression Models by Region:**
    
