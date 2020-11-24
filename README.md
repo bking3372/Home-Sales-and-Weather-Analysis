@@ -25,11 +25,12 @@ The data was analyzed by looking at correlations between home sales and weather 
 
 * Across all four regions, home sales are higher when temperatures are higher (i.e., in the summer months).  Temperature has the strongest relationship with home sales and has an impact on trends seen with the other weather variables.
 
-  **Correlation of Home Sales & Temperature:**  
+  **Correlation of Home Sales & Temperature:**
     - Northeast:  0.85
     - Midwest:    0.91
     - South:      0.78
     - West:       0.82
+
 
    **Linear Regression Models by Region:**
    
